@@ -1,0 +1,7 @@
+5
+6
+--x--x
+x-x-xx
+-x--xx
+-xxx-x
+x-xx-x
